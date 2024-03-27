@@ -111,5 +111,3 @@ print("Welcome to Love Sandwiches Data Automation")
 main()
 
 
-print("Welcome to Love Sandwiches Data Automation")
-main()
